@@ -1,0 +1,19 @@
+
++World
+1 1 1 1 1 1 1 1 1 1 1 1 1
+1 1 1 1 1 3 3 3 3 3 3 3 1
+2 2 2 1 3 3 3 3 3 3 3 1 1
+2 2 2 2 3 3 3 3 3 3 3 3 1
+2 2 2 2 4 4 4 4 5 5 5 5 1
+2 2 2 4 4 4 4 4 5 5 5 5 5
+2 2 1 1 1 1 1 1 1 1 5 1 1
++Start
+Build City 1 1
+Build Road 21 1
+Build Road 26 1
+Build Helicopter 31 1
+Build Village 54 15
+Build Truck 50 4
+Build People 78 11
+Build People 54 12
+Build People 32 10
